@@ -1,0 +1,9 @@
+C:\Users\Usuario\source\repos\Editor Imágenes\Editor Imágenes\obj\Debug\Editor Imágenes.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Editor Imágenes\Editor Imágenes\obj\Debug\Editor_Imágenes.Form1.resources
+C:\Users\Usuario\source\repos\Editor Imágenes\Editor Imágenes\obj\Debug\Editor_Imágenes.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Editor Imágenes\Editor Imágenes\obj\Debug\Editor Imágenes.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Editor Imágenes\Editor Imágenes\bin\Debug\Editor Imágenes.exe.config
+C:\Users\Usuario\source\repos\Editor Imágenes\Editor Imágenes\bin\Debug\Editor Imágenes.exe
+C:\Users\Usuario\source\repos\Editor Imágenes\Editor Imágenes\bin\Debug\Editor Imágenes.pdb
+C:\Users\Usuario\source\repos\Editor Imágenes\Editor Imágenes\obj\Debug\Editor Imágenes.exe
+C:\Users\Usuario\source\repos\Editor Imágenes\Editor Imágenes\obj\Debug\Editor Imágenes.pdb
